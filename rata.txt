@@ -6,3 +6,10 @@ Nombre: Luis Gutierrez
 Edad: 22
 Altura: 3.45 m
 Nacionalidad: Venezolano
+
+Caracteristicas:
+
+- Cuadrupedo
+- Mamifero pequeño
+- Extensión de columna
+- Digitigrados
