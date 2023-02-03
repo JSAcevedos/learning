@@ -4,3 +4,5 @@ Las ratas son mamiferos que son cercanos a los humanos.
 
 Nombre: Luis Gutierrez
 Edad: 22
+Altura: 3.45 m
+Nacionalidad: Venezolano
