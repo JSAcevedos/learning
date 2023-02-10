@@ -1,1 +1,2 @@
-console.log("Listo ñero");
+const userPassword = document.getElementById('password');
+const username = document.getElementById('username');
